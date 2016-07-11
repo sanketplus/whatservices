@@ -9,7 +9,7 @@ Requires
 
 ##Run it with `python run.py` 
 
-#Servies:
+#Services:
  - **define \<word\>** e.g. define love 
  - **howdoi \<question\> \<language\> [-n X ]**  e.g. howdoi read file python -n 2 (-n argument is optional which is number of answers)
  - **wiki \<query\>** e.g. wiki Google
